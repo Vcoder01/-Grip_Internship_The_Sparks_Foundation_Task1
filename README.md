@@ -1,5 +1,3 @@
-Grip_Internship_The_Sparks_Foundation_Task1
-Prediction using Supervised Machine Learning
+Hello Everyone !!
+I am glad to share that I have successfully completed the #Task1 : Prediction using Supervised ML as Data Science & Business Analytics Intern at The Sparks Foundation for the batch #GRIPSEPT21
 
-Linear Regression with Python Scikit Learn
-Simple Linear Regression¶
